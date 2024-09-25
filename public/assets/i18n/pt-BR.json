@@ -1,0 +1,63 @@
+{
+	"language-selector": {
+		"placeholder": "Selecione um idioma"
+	},
+	"login": {
+		"title": "Bem-vindo de volta",
+		"haveAccount": "Já possui uma conta?",
+		"logIn": "Login",
+		"dontHaveAccount": "Ainda não possui uma conta?",
+		"signUp": "Registre-se"
+	},
+	"register": {
+		"title": "Cadastrar nova conta",
+		"subtitle": "Comece agora a utilizar nosso sistema!",
+		"accountType": {
+			"label": "Escolha o tipo da sua conta",
+			"customer": "Pessoal",
+			"company": "Empresarial"
+		}
+	},
+	"buttons": {
+		"register": "Registrar",
+		"save": "Salvar",
+		"delete": "Remover"
+	},
+	"forms": {
+		"requiredMessage": " é obrigatório!",
+		"emailFormatMessage": "Formato de e-mail inválido",
+		"passwordValidator": {
+			"label": "Escolha uma senha",
+			"suggestions": "Sugestões",
+			"status": {
+				"weak": "Fraco",
+				"medium": "Médio",
+				"strong": "Forte"
+			},
+			"tips": {
+				"lowercase": "Uma letra minúscula",
+				"uppercase": "Uma letra maiúscula",
+				"numeric": "No mínimo um número",
+				"minimum": "No mínimo 8 caracteres"
+			}
+		},
+		"user": {
+			"label": "Informações do Usuário",
+			"email": "E-mail",
+			"password": "Senha",
+			"confirmPassword": "Confirmar senha",
+			"passwordDontMatch": "As senhas não combinam"
+		},
+		"customer": {
+			"name": "Nome",
+			"phone": "Telefone",
+			"address": "Endereço"
+		},
+		"company": {
+			"label": "Informações da Empresa",
+			"name": "Nome da empresa",
+			"phone": "Telefone",
+			"address": "Endereço"
+		}
+	}
+}
